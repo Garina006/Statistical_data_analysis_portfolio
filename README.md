@@ -15,10 +15,10 @@ Python
 
 Distribution_Statistics_Analysis [link for more information](https://github.com/Garina006/Statistical_data_analysis_portfolio/blob/main/Distribution_Statistics_Analysis.ipynb)
    
-1. Testing Sample for Normality:
+- Testing Sample for Normality:
    This part of the project involves testing the sample data for normality using visualization methods and statistical tests.
    
-2. Analysis of Sales Results:
+-  Analysis of Sales Results:
    The sales results are analyzed using Z-Test and two-sample Z-Test to determine the significance of differences.
 
 A_B_Test_Analysis [link for more information](https://github.com/Garina006/Statistical_data_analysis_portfolio/blob/main/A_B_Test_Analysis.ipynb)
