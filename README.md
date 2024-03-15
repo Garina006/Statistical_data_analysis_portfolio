@@ -33,9 +33,10 @@ During gameplay, players encounter gates that force them to wait for some time b
 
 Variables in the dataset include:
 
-userid: A unique identifier for each player.  
-version: Whether the player was assigned to the control group (gate_30 - gate at level 30) or the test group (gate_40 - gate at level 40).  
-sum_gamerounds: The number of game rounds played by the player during the first week after installation.  
-retention_1: Whether the player returned and started playing 1 day after installation.  
-retention_7: Whether the player returned and started playing 7 days after installation.  
+userid: _A unique identifier for each player._  
+version: _Whether the player was assigned to the control group (gate_30 - gate at level 30) or the test group (gate_40 - gate at level 40)._  
+sum_gamerounds: _The number of game rounds played by the player during the first week after installation._  
+retention_1: _Whether the player returned and started playing 1 day after installation._  
+retention_7: _Whether the player returned and started playing 7 days after installation._  
+
 Players were randomly assigned to either the gate_30 or gate_40 group when installing the game.  
