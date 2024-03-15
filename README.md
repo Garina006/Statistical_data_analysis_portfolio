@@ -13,7 +13,7 @@ Python
 
 ## Project Components
 
-__Distribution_Statistics_Analysis__ [link for more information](https://github.com/Garina006/Statistical_data_analysis_portfolio/blob/main/Distribution_Statistics_Analysis.ipynb)
+1. __Distribution_Statistics_Analysis__ [link for more information](https://github.com/Garina006/Statistical_data_analysis_portfolio/blob/main/Distribution_Statistics_Analysis.ipynb)
    
 - Testing Sample for Normality:
    This part of the project involves testing the sample data for normality using visualization methods and statistical tests.
@@ -21,7 +21,7 @@ __Distribution_Statistics_Analysis__ [link for more information](https://github.
 -  Analysis of Sales Results:
    The sales results are analyzed using Z-Test and two-sample Z-Test to determine the significance of differences.
 
-__A_B_Test_Analysis__ [link for more information](https://github.com/Garina006/Statistical_data_analysis_portfolio/blob/main/A_B_Test_Analysis.ipynb)
+2. __A_B_Test_Analysis__ [link for more information](https://github.com/Garina006/Statistical_data_analysis_portfolio/blob/main/A_B_Test_Analysis.ipynb)
 
 The project focuses on analyzing the results of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40. 
 ### Specifically, it examines the impact on player retention.
